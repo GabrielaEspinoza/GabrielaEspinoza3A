@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\Tarea7\Tarea7\bin\Debug\Tarea7.exe.config
+C:\Users\lenovo\source\repos\Tarea7\Tarea7\bin\Debug\Tarea7.exe
+C:\Users\lenovo\source\repos\Tarea7\Tarea7\bin\Debug\Tarea7.pdb
+C:\Users\lenovo\source\repos\Tarea7\Tarea7\obj\Debug\Tarea7.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Tarea7\Tarea7\obj\Debug\Tarea7.exe
+C:\Users\lenovo\source\repos\Tarea7\Tarea7\obj\Debug\Tarea7.pdb
