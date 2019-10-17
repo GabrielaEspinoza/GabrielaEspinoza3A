@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\Tarea8\Tarea8\bin\Debug\Tarea8.exe.config
+C:\Users\lenovo\source\repos\Tarea8\Tarea8\bin\Debug\Tarea8.exe
+C:\Users\lenovo\source\repos\Tarea8\Tarea8\bin\Debug\Tarea8.pdb
+C:\Users\lenovo\source\repos\Tarea8\Tarea8\obj\Debug\Tarea8.exe
+C:\Users\lenovo\source\repos\Tarea8\Tarea8\obj\Debug\Tarea8.pdb
+C:\Users\lenovo\source\repos\Tarea8\Tarea8\obj\Debug\Tarea8.csprojAssemblyReference.cache
