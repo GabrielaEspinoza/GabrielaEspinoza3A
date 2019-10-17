@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\Tarea10\Tarea10\bin\Debug\Tarea10.exe.config
+C:\Users\lenovo\source\repos\Tarea10\Tarea10\bin\Debug\Tarea10.exe
+C:\Users\lenovo\source\repos\Tarea10\Tarea10\bin\Debug\Tarea10.pdb
+C:\Users\lenovo\source\repos\Tarea10\Tarea10\obj\Debug\Tarea10.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Tarea10\Tarea10\obj\Debug\Tarea10.exe
+C:\Users\lenovo\source\repos\Tarea10\Tarea10\obj\Debug\Tarea10.pdb
